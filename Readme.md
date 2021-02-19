@@ -62,7 +62,7 @@ If you save the google spread as xlsx, the blank rows also included in your down
 # License
 MIT. Do whatever you want. You can feel free to make PR if you want to improve or fixed a bug.
 
-# Dotation Link Test
-Press below button to donate my project!
+# Buy me a coffee!
+You can buy me a coffee if you liked this!
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PVXTU5FJNBLDS)
