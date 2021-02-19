@@ -1,0 +1,16 @@
+{
+  "name": "xlsx-to-json-replacer",
+  "version": "1.0.0",
+  "description": "Loads K/V from xlsx and write into corresponding JSON property.",
+  "main": "replace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": ".modernator",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^4.2.0",
+    "minimist": "^1.2.5"
+  }
+}
